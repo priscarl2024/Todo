@@ -1,5 +1,5 @@
 import About from "./Pages/About";
-import Todo from "./Pages/todo";
+import Todo from "./Pages/Todo";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 
